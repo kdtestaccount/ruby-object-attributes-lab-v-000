@@ -16,3 +16,5 @@ class Dog
     @breed = breed
   end
 end
+
+Dog.name="Fido"
