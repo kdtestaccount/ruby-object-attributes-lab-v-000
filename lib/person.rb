@@ -17,4 +17,4 @@ class Person
   end
 end
 
-Person.new = 
+# Person.new = 
