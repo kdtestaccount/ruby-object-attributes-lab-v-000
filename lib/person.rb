@@ -1,7 +1,7 @@
 class Person
   
   def name
-    puts @name
+    @name
   end
   
   def name= (name)
@@ -9,12 +9,10 @@ class Person
   end
   
   def job
-    puts @job
+    @job
   end
   
   def job= (job)
     @job = job
   end
 end
-
-# Person.new = 
