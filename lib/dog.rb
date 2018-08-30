@@ -12,4 +12,7 @@ class Dog
     puts @breed
   end
   
+  def breed=(breed)
+    @breed = breed
+  end
 end
